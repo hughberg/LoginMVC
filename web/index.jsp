@@ -12,7 +12,7 @@
         <h1>Login</h1>
         
         <div>
-            <form action="#" method="post">
+            <form action="Autenticacion" method="post">
                 <input type="text" name="user" id="user"/></br></br>
                 <input type="password" name="pass" id="pass"/></br></br>
                 <input type="submit" name="Entrar" id="Entrar" value="Entrar"/>
